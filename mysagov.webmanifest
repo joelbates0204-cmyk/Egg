@@ -1,6 +1,6 @@
 {
-  "name": "SA Digital Wallet Demo",
-  "short_name": "SA Demo",
+  "name": "SA Digital Wallet",
+  "short_name": "mySAGOV",
   "description": "Unofficial demonstration app. Not a government credential.",
   "icons": [
     {
